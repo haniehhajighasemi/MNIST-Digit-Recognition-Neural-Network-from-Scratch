@@ -1,7 +1,7 @@
 import time
 import numpy as np
 
-from project import NeuralNetwork, load_and_preprocess_mnist, visualize_samples, plot_training_history
+from utils import NeuralNetwork, load_and_preprocess_mnist, visualize_samples, plot_training_history
 
 def main():
     print("MNIST Neural Network Implementation")

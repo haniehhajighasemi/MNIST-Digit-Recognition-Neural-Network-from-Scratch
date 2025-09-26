@@ -48,7 +48,7 @@ Output Layer: 10 neurons, Softmax activation
 ------------------------
 ```
 project/
-├── project/               # Python package folder
+├── utils/               # Python package folder
 │   ├── __init__.py        # Makes this a package
 │   ├── neural_network.py  # NeuralNetwork class
 │   ├── data_utils.py      # Data loading & preprocessing
